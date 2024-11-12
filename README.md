@@ -30,3 +30,22 @@ PulmoCheck is a powerful, interactive web application built using Streamlit that
 ### Prerequisites
 - **Python 3.7+** is required to run the application.
 - The following libraries should be installed (specified in `requirements.txt`): `streamlit`, `pandas`, `seaborn`, `scikit-learn`, `matplotlib`, etc.
+---
+## Contributing
+We welcome contributions to improve PulmoCheck. Please follow these steps to contribute:
+Fork the repository.
+Create a new branch.
+Make your changes and commit them.
+Push to your fork and submit a pull request.
+Please ensure that your code follows good practices and includes appropriate comments for readability.
+---
+## Known Issues and Limitations
+This app is intended for educational purposes only and should not be used as a diagnostic tool.
+Always consult a healthcare provider for medical advice related to lung health or cancer.
+---
+## Contact
+Created by Abdul. For feedback or questions, please reach out:
+Email: hanzo7n@gmail.com
+---
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute it. See LICENSE for more details.
